@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenya Trip - Itinerary Rewind</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css?v=20251024b">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>Itinerary Rewind</h1>
+                <p class="subtitle">Your Kenya Adventure</p>
+            </div>
+        </header>
+
+        <!-- Trip Summary -->
+        <section class="trip-summary">
+            <div class="summary-card">
+                <div class="stat">
+                    <div class="stat-value" id="duration">0</div>
+                    <div class="stat-label">Days</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value" id="photoCount">0</div>
+                    <div class="stat-label">Photos</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value" id="locationCount">0</div>
+                    <div class="stat-label">Locations</div>
+                </div>
+            </div>
+            <div class="date-range">
+                <span id="dateRange">Loading...</span>
+            </div>
+        </section>
+
+        <!-- Trip Narrative -->
+        <section class="narrative-section">
+            <div id="tripNarrative" class="trip-narrative"></div>
+        </section>
+
+        <!-- Map -->
+        <section class="map-section">
+            <h2>Your Journey</h2>
+            <div id="map"></div>
+        </section>
+
+        <!-- Location Cards -->
+        <section class="locations-section">
+            <h2>Locations Visited</h2>
+            <div id="locationCards" class="location-cards"></div>
+        </section>
+
+        <!-- Timeline -->
+        <section class="timeline-section">
+            <h2>Day-by-Day Timeline</h2>
+            <div id="timeline" class="timeline"></div>
+        </section>
+
+        <!-- Photo Gallery -->
+        <section class="gallery-section">
+            <h2>All Photos</h2>
+            <div id="gallery" class="gallery"></div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Generated with Itinerary Rewind</p>
+            <p class="footer-meta">Auto-generated from your travel photos using AI</p>
+        </footer>
+    </div>
+
+    <!-- Lightbox for photos -->
+    <div id="lightbox" class="lightbox">
+        <span class="close">&times;</span>
+        <img class="lightbox-content" id="lightbox-img">
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js?v=20251024e"></script>
+</body>
+</html>

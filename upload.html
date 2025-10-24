@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Photos - Itinerary Rewind</title>
+    <link rel="stylesheet" href="upload.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>Itinerary Rewind</h1>
+                <p class="subtitle">Transform Your Travel Photos Into a Story</p>
+            </div>
+        </header>
+
+        <!-- Upload Section -->
+        <section class="upload-section">
+            <h2>Upload Your Photos</h2>
+            <p class="instructions">Drag and drop your travel photos or click to browse. We'll automatically organize them by date and location.</p>
+
+            <!-- Drag and Drop Zone -->
+            <div class="drop-zone" id="dropZone">
+                <div class="drop-zone-content">
+                    <svg class="upload-icon" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="17 8 12 3 7 8"></polyline>
+                        <line x1="12" y1="3" x2="12" y2="15"></line>
+                    </svg>
+                    <h3>Drop your photos here</h3>
+                    <p>or click to browse</p>
+                    <input type="file" id="fileInput" multiple accept="image/*" hidden>
+                </div>
+            </div>
+
+            <!-- Selected Files List -->
+            <div class="files-list" id="filesList" style="display: none;">
+                <h3>Selected Photos</h3>
+                <div id="filesContainer"></div>
+                <div class="file-count" id="fileCount"></div>
+            </div>
+
+            <!-- Continue Button -->
+            <div class="actions">
+                <button class="btn-continue" id="continueBtn">
+                    <span>Continue to Itinerary</span>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <polyline points="12 5 19 12 12 19"></polyline>
+                    </svg>
+                </button>
+            </div>
+        </section>
+
+        <!-- Features -->
+        <section class="features">
+            <div class="feature">
+                <h4>Automatic Organization</h4>
+                <p>Photos sorted by date and GPS location</p>
+            </div>
+            <div class="feature">
+                <h4>AI Descriptions</h4>
+                <p>Contextual descriptions for each day</p>
+            </div>
+            <div class="feature">
+                <h4>Beautiful Timeline</h4>
+                <p>Interactive map and photo gallery</p>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Generated with Itinerary Rewind</p>
+            <p class="footer-meta">Your photos stay private and secure</p>
+        </footer>
+    </div>
+
+    <script src="upload.js"></script>
+</body>
+</html>

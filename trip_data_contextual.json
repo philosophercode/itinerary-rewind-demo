@@ -1,0 +1,700 @@
+{
+  "summary": {
+    "start_date": "February 02, 2025",
+    "end_date": "March 05, 2025",
+    "duration_days": 31,
+    "total_photos": 15,
+    "photos_with_gps": 11,
+    "unique_locations": 4,
+    "cameras_used": [
+      "Apple iPhone 16 Pro Max",
+      "SONY ILCE-7M4"
+    ]
+  },
+  "locations": [
+    {
+      "location_id": 1,
+      "name": "Central Kenya / Samburu",
+      "coordinates": {
+        "latitude": 0.7148749999999999,
+        "longitude": 36.59205277777778
+      },
+      "photo_count": 1,
+      "dates": [
+        "2025-02-02"
+      ],
+      "date_range": "2025-02-02"
+    },
+    {
+      "location_id": 2,
+      "name": "Kenyan Coast",
+      "coordinates": {
+        "latitude": -3.253827777777778,
+        "longitude": 40.131200925925924
+      },
+      "photo_count": 3,
+      "dates": [
+        "2025-02-05",
+        "2025-02-06"
+      ],
+      "date_range": "2025-02-05 to 2025-02-06"
+    },
+    {
+      "location_id": 3,
+      "name": "Central Kenya / Samburu",
+      "coordinates": {
+        "latitude": -0.1640148148148148,
+        "longitude": 37.26252222222222
+      },
+      "photo_count": 6,
+      "dates": [
+        "2025-02-10",
+        "2025-02-11",
+        "2025-02-12"
+      ],
+      "date_range": "2025-02-10 to 2025-02-12"
+    },
+    {
+      "location_id": 4,
+      "name": "Kenyan Coast",
+      "coordinates": {
+        "latitude": -3.675797222222222,
+        "longitude": 39.862033333333336
+      },
+      "photo_count": 1,
+      "dates": [
+        "2025-02-21"
+      ],
+      "date_range": "2025-02-21"
+    }
+  ],
+  "itinerary": [
+    {
+      "date": "2025-02-02",
+      "day_name": "Sunday",
+      "formatted_date": "February 02, 2025",
+      "location": "Central Kenya / Samburu",
+      "photo_count": 1,
+      "photos": [
+        {
+          "filename": "IMG_5287.jpeg",
+          "filepath": "images/IMG_5287.jpeg",
+          "size": 909890,
+          "dimensions": "1280x960",
+          "timestamp": "2025-02-02T17:13:29",
+          "date": "2025-02-02",
+          "time": "17:13:29",
+          "gps": {
+            "latitude": 0.7148749999999999,
+            "longitude": 36.59205277777778
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/1.7799999713880652",
+          "shutter_speed": "0.002207505518763797",
+          "iso": 80,
+          "focal_length": "6.764999865652793mm"
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.7148749999999999,
+        "longitude": 36.59205277777778
+      },
+      "description": "Your Kenyan adventure begins with an unforgettable wildlife encounter in the savannah. A curious giraffe approaches your safari vehicle, creating an intimate moment with nature. • Family delighted by close giraffe encounter • Golden savannah backdrop sets the scene • Perfect introduction to Kenya's incredible wildlife • Captured spontaneous moment of wonder • Safari vehicle provides safe vantage point • Expression of curiosity on the giraffe's face • Unscripted wildlife moment at its finest",
+      "day_number": 1
+    },
+    {
+      "date": "2025-02-05",
+      "day_name": "Wednesday",
+      "formatted_date": "February 05, 2025",
+      "location": "Kenyan Coast",
+      "photo_count": 2,
+      "photos": [
+        {
+          "filename": "IMG_6121.jpeg",
+          "filepath": "images/IMG_6121.jpeg",
+          "size": 728366,
+          "dimensions": "1280x960",
+          "timestamp": "2025-02-05T14:00:59",
+          "date": "2025-02-05",
+          "time": "14:00:59",
+          "gps": {
+            "latitude": -3.255525,
+            "longitude": 40.13233611111111
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/1.7799999713880652",
+          "shutter_speed": "0.00027901785714285713",
+          "iso": 80,
+          "focal_length": "6.764999865652793mm"
+        },
+        {
+          "filename": "IMG_6130.jpeg",
+          "filepath": "images/IMG_6130.jpeg",
+          "size": 1111826,
+          "dimensions": "1280x960",
+          "timestamp": "2025-02-05T18:18:24",
+          "date": "2025-02-05",
+          "time": "18:18:24",
+          "gps": {
+            "latitude": -3.255675,
+            "longitude": 40.13205277777778
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/1.7799999713880652",
+          "shutter_speed": "0.0036231884057971015",
+          "iso": 64,
+          "focal_length": "6.764999865652793mm"
+        }
+      ],
+      "coordinates": {
+        "latitude": -3.2556000000000003,
+        "longitude": 40.132194444444444
+      },
+      "description": "Trading savannah for coast, you arrive at Kenya's stunning Indian Ocean shores for a spectacular beachside lunch. Fresh seared tuna and ocean views create the perfect coastal dining experience. • World-class seafood with crispy fries • Palm trees swaying overhead • Beach restaurant with wooden chairs on sand • Sail shades filtering tropical sun • Mesmerizing ocean backdrop • Tide creating constantly changing scenery • Barefoot elegance defining coastal Kenya • Time slows down by the water",
+      "day_number": 2
+    },
+    {
+      "date": "2025-02-06",
+      "day_name": "Thursday",
+      "formatted_date": "February 06, 2025",
+      "location": "Kenyan Coast",
+      "photo_count": 1,
+      "photos": [
+        {
+          "filename": "IMG_6222.jpeg",
+          "filepath": "images/IMG_6222.jpeg",
+          "size": 988849,
+          "dimensions": "960x1280",
+          "timestamp": "2025-02-06T16:45:57",
+          "date": "2025-02-06",
+          "time": "16:45:57",
+          "gps": {
+            "latitude": -3.2502833333333334,
+            "longitude": 40.12921388888889
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/1.7799999713880652",
+          "shutter_speed": "0.0004219409282700422",
+          "iso": 80,
+          "focal_length": "6.764999865652793mm"
+        }
+      ],
+      "coordinates": {
+        "latitude": -3.2502833333333334,
+        "longitude": 40.12921388888889
+      },
+      "description": "Exploring the dramatic rocky coastline at low tide reveals Kenya's diverse coastal beauty. Exposed tidal pools and natural rock formations offer a different perspective on the Indian Ocean. • Hidden world of marine life in tidal pools • Natural rock formations with stunning backdrops • Turquoise water contrasting with dark volcanic rock • More than just beaches • Low tide revealing secret coastal treasures • Instagram-worthy natural sculptures • Volcanic origins visible in the landscape",
+      "day_number": 3
+    },
+    {
+      "date": "2025-02-10",
+      "day_name": "Monday",
+      "formatted_date": "February 10, 2025",
+      "location": "Central Kenya / Samburu",
+      "photo_count": 1,
+      "photos": [
+        {
+          "filename": "IMG_6589.jpeg",
+          "filepath": "images/IMG_6589.jpeg",
+          "size": 1248446,
+          "dimensions": "960x1280",
+          "timestamp": "2025-02-10T16:52:16",
+          "date": "2025-02-10",
+          "time": "16:52:16",
+          "gps": {
+            "latitude": -0.17051388888888888,
+            "longitude": 37.21373333333334
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/1.7799999713880652",
+          "shutter_speed": "0.00038299502106472615",
+          "iso": 100,
+          "focal_length": "6.764999865652793mm"
+        }
+      ],
+      "coordinates": {
+        "latitude": -0.17051388888888888,
+        "longitude": 37.21373333333334
+      },
+      "description": "The journey takes a dramatic turn as you begin your ascent of Mount Kenya, Africa's second-highest peak. Your expedition team gathers at the Naro Muru River Gate, ready for a multi-day mountain adventure. • Expedition team assembled at trailhead • Gateway to Mount Kenya's wilderness • Packs loaded for multi-day trek • Spirits high as summit beckons • Sign marking beginning of the journey • One of Africa's most spectacular mountain environments • Multi-day adventure into high country",
+      "day_number": 4
+    },
+    {
+      "date": "2025-02-11",
+      "day_name": "Tuesday",
+      "formatted_date": "February 11, 2025",
+      "location": "Central Kenya / Samburu",
+      "photo_count": 3,
+      "photos": [
+        {
+          "filename": "IMG_6612.jpeg",
+          "filepath": "images/IMG_6612.jpeg",
+          "size": 613775,
+          "dimensions": "960x1280",
+          "timestamp": "2025-02-11T08:57:39",
+          "date": "2025-02-11",
+          "time": "08:57:39",
+          "gps": {
+            "latitude": -0.16747499999999998,
+            "longitude": 37.2275
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/2.2",
+          "shutter_speed": "0.000368052999631947",
+          "iso": 50,
+          "focal_length": "2.220000028611935mm"
+        },
+        {
+          "filename": "IMG_6637.jpeg",
+          "filepath": "images/IMG_6637.jpeg",
+          "size": 525333,
+          "dimensions": "960x1280",
+          "timestamp": "2025-02-11T09:32:38",
+          "date": "2025-02-11",
+          "time": "09:32:38",
+          "gps": {
+            "latitude": -0.16788055555555553,
+            "longitude": 37.231719444444444
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/2.2",
+          "shutter_speed": "0.004484304932735426",
+          "iso": 40,
+          "focal_length": "2.220000028611935mm"
+        },
+        {
+          "filename": "IMG_6839.jpeg",
+          "filepath": "images/IMG_6839.jpeg",
+          "size": 398248,
+          "dimensions": "1280x960",
+          "timestamp": "2025-02-11T18:41:01",
+          "date": "2025-02-11",
+          "time": "18:41:01",
+          "gps": {
+            "latitude": -0.1674,
+            "longitude": 37.29681111111111
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/2.8",
+          "shutter_speed": "0.006756756756756757",
+          "iso": 50,
+          "focal_length": "15.659999847383mm"
+        }
+      ],
+      "coordinates": {
+        "latitude": -0.16758518518518517,
+        "longitude": 37.252010185185185
+      },
+      "description": "Pushing higher through Mount Kenya's distinctive moorland zone, the landscape transforms dramatically. From forest to heath to otherworldly afro-alpine terrain, each step reveals new wonders. • Climbing through Mt Kenya's moorland zone • Photographing extraordinary Giant Lobelia plants • Perfect spiral patterns of prehistoric flora • Golden hour illuminating jagged volcanic peaks • Swirling clouds dancing around summit spires • Clear blue skies stretching overhead • Group silhouettes against vast valley views • iPhone macro capturing intricate plant details • Nature's grandeur on full display",
+      "day_number": 5
+    },
+    {
+      "date": "2025-02-12",
+      "day_name": "Wednesday",
+      "formatted_date": "February 12, 2025",
+      "location": "Central Kenya / Samburu",
+      "photo_count": 3,
+      "photos": [
+        {
+          "filename": "IMG_6859.jpeg",
+          "filepath": "images/IMG_6859.jpeg",
+          "size": 609916,
+          "dimensions": "1280x960",
+          "timestamp": "2025-02-12T07:27:37",
+          "date": "2025-02-12",
+          "time": "07:27:37",
+          "gps": {
+            "latitude": -0.1672833333333333,
+            "longitude": 37.29678333333333
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/2.2",
+          "shutter_speed": "0.0023094688221709007",
+          "iso": 50,
+          "focal_length": "2.220000028611935mm"
+        },
+        {
+          "filename": "DSC05928.jpeg",
+          "filepath": "images/DSC05928.jpeg",
+          "size": 181413,
+          "dimensions": "854x1280",
+          "timestamp": "2025-02-12T10:09:34",
+          "date": "2025-02-12",
+          "time": "10:09:34",
+          "camera_make": "SONY",
+          "camera_model": "ILCE-7M4",
+          "aperture": "f/8.0",
+          "shutter_speed": "0.008",
+          "iso": 125,
+          "focal_length": "24.0mm"
+        },
+        {
+          "filename": "IMG_7059.jpeg",
+          "filepath": "images/IMG_7059.jpeg",
+          "size": 677530,
+          "dimensions": "1280x960",
+          "timestamp": "2025-02-12T14:26:09",
+          "date": "2025-02-12",
+          "time": "14:26:09",
+          "gps": {
+            "latitude": -0.14353611111111111,
+            "longitude": 37.30858611111111
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/2.8",
+          "shutter_speed": "0.0010384215991692627",
+          "iso": 50,
+          "focal_length": "15.659999847383mm"
+        }
+      ],
+      "coordinates": {
+        "latitude": -0.1554097222222222,
+        "longitude": 37.302684722222224
+      },
+      "description": "High-altitude camp established in Mount Kenya's stark alpine terrain. Colorful expedition tents are dwarfed by dramatic peaks as temperatures drop and stars emerge. • Expedition tents in alpine terrain • Crystal-clear tarn reflecting jagged peaks • Surreal Giant Lobelia plants in foreground • Volcanic rock formations dusted with snow • Up early at 07:27 to capture best light • Sense of remoteness and adventure • Sony A7M4 for maximum image quality • Otherworldly landscape like another planet • Ancient mountain showing its volcanic origins",
+      "day_number": 6
+    },
+    {
+      "date": "2025-02-21",
+      "day_name": "Friday",
+      "formatted_date": "February 21, 2025",
+      "location": "Kenyan Coast",
+      "photo_count": 1,
+      "photos": [
+        {
+          "filename": "IMG_8001.jpeg",
+          "filepath": "images/IMG_8001.jpeg",
+          "size": 1172635,
+          "dimensions": "960x1280",
+          "timestamp": "2025-02-21T17:37:21",
+          "date": "2025-02-21",
+          "time": "17:37:21",
+          "gps": {
+            "latitude": -3.675797222222222,
+            "longitude": 39.862033333333336
+          },
+          "camera_make": "Apple",
+          "camera_model": "iPhone 16 Pro Max",
+          "aperture": "f/1.7799999713880652",
+          "shutter_speed": "0.008264462809917356",
+          "iso": 64,
+          "focal_length": "6.764999865652793mm"
+        }
+      ],
+      "coordinates": {
+        "latitude": -3.675797222222222,
+        "longitude": 39.862033333333336
+      },
+      "description": "Visit to a local tree nursery supporting Kenya's reforestation efforts. Rows of Afzelia Quanzensis saplings represent hope for the future of Kenya's forests. • Tree nursery supporting reforestation • Afzelia Quanzensis saplings growing • Handmade signs labeling each species • Grassroots conservation work in action • Tourism supporting environmental restoration • Each tree may stand for centuries • Testament to community conservation efforts • Hope for Kenya's forests",
+      "day_number": 7
+    },
+    {
+      "date": "2025-02-25",
+      "day_name": "Tuesday",
+      "formatted_date": "February 25, 2025",
+      "location": "Location unavailable",
+      "photo_count": 2,
+      "photos": [
+        {
+          "filename": "DSC06318.jpeg",
+          "filepath": "images/DSC06318.jpeg",
+          "size": 62175,
+          "dimensions": "1280x854",
+          "timestamp": "2025-02-25T17:30:21",
+          "date": "2025-02-25",
+          "time": "17:30:21",
+          "camera_make": "SONY",
+          "camera_model": "ILCE-7M4",
+          "aperture": "f/7.1",
+          "shutter_speed": "0.0025",
+          "iso": 125,
+          "focal_length": "70.0mm"
+        },
+        {
+          "filename": "DSC06526.jpeg",
+          "filepath": "images/DSC06526.jpeg",
+          "size": 92182,
+          "dimensions": "854x1280",
+          "timestamp": "2025-02-25T18:21:04",
+          "date": "2025-02-25",
+          "time": "18:21:04",
+          "camera_make": "SONY",
+          "camera_model": "ILCE-7M4",
+          "aperture": "f/14.0",
+          "shutter_speed": "0.00625",
+          "iso": 125,
+          "focal_length": "63.0mm"
+        }
+      ],
+      "description": "The coast serves up adrenaline as kitesurfers catch air above turquoise water. Later, a golden sunset provides the perfect moment to reflect on the journey from wildlife to mountains to coast. • Kitesurfers performing aerial tricks • Multiple colorful kites filling the sky • Sony A7M4 freezing the action at 70mm • Golden sun melting into Indian Ocean • Silhouetted coastline creating perfect tranquility • Perfect wind conditions for adventure sports • Decisive moment captured mid-air • Kenya's full spectrum experienced • Gentle waves completing the scene",
+      "day_number": 8
+    }
+  ],
+  "all_photos": [
+    {
+      "filename": "IMG_5287.jpeg",
+      "filepath": "images/IMG_5287.jpeg",
+      "size": 909890,
+      "dimensions": "1280x960",
+      "timestamp": "2025-02-02T17:13:29",
+      "date": "2025-02-02",
+      "time": "17:13:29",
+      "gps": {
+        "latitude": 0.7148749999999999,
+        "longitude": 36.59205277777778
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/1.7799999713880652",
+      "shutter_speed": "0.002207505518763797",
+      "iso": 80,
+      "focal_length": "6.764999865652793mm"
+    },
+    {
+      "filename": "IMG_6121.jpeg",
+      "filepath": "images/IMG_6121.jpeg",
+      "size": 728366,
+      "dimensions": "1280x960",
+      "timestamp": "2025-02-05T14:00:59",
+      "date": "2025-02-05",
+      "time": "14:00:59",
+      "gps": {
+        "latitude": -3.255525,
+        "longitude": 40.13233611111111
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/1.7799999713880652",
+      "shutter_speed": "0.00027901785714285713",
+      "iso": 80,
+      "focal_length": "6.764999865652793mm"
+    },
+    {
+      "filename": "IMG_6130.jpeg",
+      "filepath": "images/IMG_6130.jpeg",
+      "size": 1111826,
+      "dimensions": "1280x960",
+      "timestamp": "2025-02-05T18:18:24",
+      "date": "2025-02-05",
+      "time": "18:18:24",
+      "gps": {
+        "latitude": -3.255675,
+        "longitude": 40.13205277777778
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/1.7799999713880652",
+      "shutter_speed": "0.0036231884057971015",
+      "iso": 64,
+      "focal_length": "6.764999865652793mm"
+    },
+    {
+      "filename": "IMG_6222.jpeg",
+      "filepath": "images/IMG_6222.jpeg",
+      "size": 988849,
+      "dimensions": "960x1280",
+      "timestamp": "2025-02-06T16:45:57",
+      "date": "2025-02-06",
+      "time": "16:45:57",
+      "gps": {
+        "latitude": -3.2502833333333334,
+        "longitude": 40.12921388888889
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/1.7799999713880652",
+      "shutter_speed": "0.0004219409282700422",
+      "iso": 80,
+      "focal_length": "6.764999865652793mm"
+    },
+    {
+      "filename": "IMG_6589.jpeg",
+      "filepath": "images/IMG_6589.jpeg",
+      "size": 1248446,
+      "dimensions": "960x1280",
+      "timestamp": "2025-02-10T16:52:16",
+      "date": "2025-02-10",
+      "time": "16:52:16",
+      "gps": {
+        "latitude": -0.17051388888888888,
+        "longitude": 37.21373333333334
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/1.7799999713880652",
+      "shutter_speed": "0.00038299502106472615",
+      "iso": 100,
+      "focal_length": "6.764999865652793mm"
+    },
+    {
+      "filename": "IMG_6612.jpeg",
+      "filepath": "images/IMG_6612.jpeg",
+      "size": 613775,
+      "dimensions": "960x1280",
+      "timestamp": "2025-02-11T08:57:39",
+      "date": "2025-02-11",
+      "time": "08:57:39",
+      "gps": {
+        "latitude": -0.16747499999999998,
+        "longitude": 37.2275
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/2.2",
+      "shutter_speed": "0.000368052999631947",
+      "iso": 50,
+      "focal_length": "2.220000028611935mm"
+    },
+    {
+      "filename": "IMG_6637.jpeg",
+      "filepath": "images/IMG_6637.jpeg",
+      "size": 525333,
+      "dimensions": "960x1280",
+      "timestamp": "2025-02-11T09:32:38",
+      "date": "2025-02-11",
+      "time": "09:32:38",
+      "gps": {
+        "latitude": -0.16788055555555553,
+        "longitude": 37.231719444444444
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/2.2",
+      "shutter_speed": "0.004484304932735426",
+      "iso": 40,
+      "focal_length": "2.220000028611935mm"
+    },
+    {
+      "filename": "IMG_6839.jpeg",
+      "filepath": "images/IMG_6839.jpeg",
+      "size": 398248,
+      "dimensions": "1280x960",
+      "timestamp": "2025-02-11T18:41:01",
+      "date": "2025-02-11",
+      "time": "18:41:01",
+      "gps": {
+        "latitude": -0.1674,
+        "longitude": 37.29681111111111
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/2.8",
+      "shutter_speed": "0.006756756756756757",
+      "iso": 50,
+      "focal_length": "15.659999847383mm"
+    },
+    {
+      "filename": "IMG_6859.jpeg",
+      "filepath": "images/IMG_6859.jpeg",
+      "size": 609916,
+      "dimensions": "1280x960",
+      "timestamp": "2025-02-12T07:27:37",
+      "date": "2025-02-12",
+      "time": "07:27:37",
+      "gps": {
+        "latitude": -0.1672833333333333,
+        "longitude": 37.29678333333333
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/2.2",
+      "shutter_speed": "0.0023094688221709007",
+      "iso": 50,
+      "focal_length": "2.220000028611935mm"
+    },
+    {
+      "filename": "DSC05928.jpeg",
+      "filepath": "images/DSC05928.jpeg",
+      "size": 181413,
+      "dimensions": "854x1280",
+      "timestamp": "2025-02-12T10:09:34",
+      "date": "2025-02-12",
+      "time": "10:09:34",
+      "camera_make": "SONY",
+      "camera_model": "ILCE-7M4",
+      "aperture": "f/8.0",
+      "shutter_speed": "0.008",
+      "iso": 125,
+      "focal_length": "24.0mm"
+    },
+    {
+      "filename": "IMG_7059.jpeg",
+      "filepath": "images/IMG_7059.jpeg",
+      "size": 677530,
+      "dimensions": "1280x960",
+      "timestamp": "2025-02-12T14:26:09",
+      "date": "2025-02-12",
+      "time": "14:26:09",
+      "gps": {
+        "latitude": -0.14353611111111111,
+        "longitude": 37.30858611111111
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/2.8",
+      "shutter_speed": "0.0010384215991692627",
+      "iso": 50,
+      "focal_length": "15.659999847383mm"
+    },
+    {
+      "filename": "IMG_8001.jpeg",
+      "filepath": "images/IMG_8001.jpeg",
+      "size": 1172635,
+      "dimensions": "960x1280",
+      "timestamp": "2025-02-21T17:37:21",
+      "date": "2025-02-21",
+      "time": "17:37:21",
+      "gps": {
+        "latitude": -3.675797222222222,
+        "longitude": 39.862033333333336
+      },
+      "camera_make": "Apple",
+      "camera_model": "iPhone 16 Pro Max",
+      "aperture": "f/1.7799999713880652",
+      "shutter_speed": "0.008264462809917356",
+      "iso": 64,
+      "focal_length": "6.764999865652793mm"
+    },
+    {
+      "filename": "DSC06318.jpeg",
+      "filepath": "images/DSC06318.jpeg",
+      "size": 62175,
+      "dimensions": "1280x854",
+      "timestamp": "2025-02-25T17:30:21",
+      "date": "2025-02-25",
+      "time": "17:30:21",
+      "camera_make": "SONY",
+      "camera_model": "ILCE-7M4",
+      "aperture": "f/7.1",
+      "shutter_speed": "0.0025",
+      "iso": 125,
+      "focal_length": "70.0mm"
+    },
+    {
+      "filename": "DSC06526.jpeg",
+      "filepath": "images/DSC06526.jpeg",
+      "size": 92182,
+      "dimensions": "854x1280",
+      "timestamp": "2025-02-25T18:21:04",
+      "date": "2025-02-25",
+      "time": "18:21:04",
+      "camera_make": "SONY",
+      "camera_model": "ILCE-7M4",
+      "aperture": "f/14.0",
+      "shutter_speed": "0.00625",
+      "iso": 125,
+      "focal_length": "63.0mm"
+    }
+  ],
+  "trip_narrative": "<h3>From Safari to Summit to Sea</h3>\n    <p>Over 31 extraordinary days in Kenya, you experienced the full spectrum of African adventure. Your journey began with intimate wildlife encounters in the savannah, escalated to a challenging multi-day expedition up Mount Kenya (Africa's second-highest peak), and concluded with blissful relaxation on the Indian Ocean coast.</p>\n\n    <p>This wasn't just a vacation\u2014it was an odyssey through diverse ecosystems and experiences. You photographed giraffes from your safari vehicle, climbed through afro-alpine moorlands at 4,000+ meters, documented rare Giant Lobelia plants, camped beneath jagged volcanic peaks, explored tidal pools, watched kitesurfers catch air, and visited conservation efforts supporting reforestation.</p>\n\n    <p>Shot with both iPhone 16 Pro Max for spontaneous moments and Sony A7M4 for technical precision, your 14 photographs tell a story of physical challenge, natural beauty, and environmental consciousness. From sea level to summit, this is Kenya in its full, magnificent diversity.</p>"
+}

@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: #ffffff;
+    color: #000000;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header */
+.header {
+    background: #ffffff;
+    color: #000000;
+    padding: 60px 20px 40px;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    margin-bottom: 60px;
+}
+
+.header-content h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.25rem;
+    color: #666666;
+}
+
+/* Upload Section */
+.upload-section {
+    margin-bottom: 60px;
+}
+
+.upload-section h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.instructions {
+    text-align: center;
+    color: #666666;
+    margin-bottom: 40px;
+    font-size: 1.1rem;
+}
+
+/* Drop Zone */
+.drop-zone {
+    border: 2px dashed #000000;
+    padding: 80px 40px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-bottom: 40px;
+}
+
+.drop-zone:hover {
+    background-color: #f5f5f5;
+}
+
+.drop-zone.drag-over {
+    background-color: #f5f5f5;
+    border-style: solid;
+}
+
+.drop-zone-content {
+    pointer-events: none;
+}
+
+.upload-icon {
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.drop-zone h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.drop-zone p {
+    color: #666666;
+    font-size: 1rem;
+}
+
+/* Files List */
+.files-list {
+    margin-bottom: 40px;
+}
+
+.files-list h3 {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+#filesContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.file-item {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.file-thumbnail {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin-bottom: 8px;
+    background: #f5f5f5;
+}
+
+.file-name {
+    font-size: 0.75rem;
+    color: #666666;
+    word-break: break-all;
+    line-height: 1.2;
+}
+
+.remove-file {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.remove-file:hover {
+    background: #000000;
+    color: #ffffff;
+}
+
+.file-count {
+    text-align: center;
+    font-weight: 600;
+    padding: 15px;
+    border: 1px solid #000000;
+}
+
+/* Actions */
+.actions {
+    text-align: center;
+}
+
+.btn-continue {
+    background: #000000;
+    color: #ffffff;
+    border: 1px solid #000000;
+    padding: 18px 40px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.2s;
+}
+
+.btn-continue:hover:not(:disabled) {
+    background: #ffffff;
+    color: #000000;
+}
+
+.btn-continue:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.btn-continue svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* Features */
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    margin-bottom: 60px;
+    padding: 40px 0;
+    border-top: 1px solid #000000;
+}
+
+.feature {
+    text-align: center;
+    padding: 20px;
+}
+
+.feature h4 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.feature p {
+    color: #666666;
+    font-size: 0.95rem;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: #666666;
+    border-top: 1px solid #000000;
+    margin-top: 60px;
+}
+
+.footer-meta {
+    font-size: 0.9rem;
+    margin-top: 10px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .header-content h1 {
+        font-size: 2rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+
+    .drop-zone {
+        padding: 60px 20px;
+    }
+
+    #filesContainer {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        gap: 10px;
+    }
+
+    .btn-continue {
+        width: 100%;
+        justify-content: center;
+    }
+}
